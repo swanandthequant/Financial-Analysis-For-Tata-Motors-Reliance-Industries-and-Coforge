@@ -34,7 +34,7 @@ This repo contains a simple but usefull financial analysis notebook. It pulls st
 
 1.Annual return (compounded)
 
-2. Annual volatility
+2.Annual volatility
 
 3.Sharpe ratio (risk-adjusted return)
 
